@@ -1,0 +1,140 @@
+<title></title>: 제목
+<Strong></Strong>: 글자체 강조
+<b>: 글자체 강조
+<U></U>: 언더라인
+<P></P>: 문단 정의
+<br>: 한줄 공백
+< h1~h6> </h1~6>: 헤드 글씨체 
+<head>
+<img src ="coding.jpg"width=:"100%"> 이미지 집어넣고, 비율조정
+<span<sanstyle="margin-top:45Ppx;"></p></span> 글자 위쪽에 위치
+<span style="font=size:24px">coding</span> 폰트사이즈 조정
+<ul></ul> 리스트 넘버 해제
+<li></li>: 리스트 정의
+<ol></ol>: 리스트 넘버 먹이기
+
+
+
+<!doctype html>: 관용적으로 문서 타입 안내
+<html>
+
+<head>대가리</head>
+<tilte>제목</title>
+<meta chrtset="utf-8>: utf 8 문자규칙 읽는다
+ㄴ 본문에 대한 설명
+<body>
+어쩌구 저쩌구..
+</body>
+</html>
+<a></a>: 링크달기 href 이하 대상 링크, target title 이하 마우스 가져다 대면 나오는 설명 그 이하 링크 진입 버튼 
+예시)     <p><a href="http://test.ezcasino.io/webgl//"target="blank" title="online casino">게임입장 </a></p>
+
+
+====================
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>EZ카지노</title>
+  </head>
+  <body>
+    <h1><a href="0.Index.EZcasino.html">EZcasino</a></h1>
+    <ol>
+    <p><li><a href="1.Fortuneprime.html">Fortuneprime</a></li></p>
+    <p><li><a href="2.Macaudragon.html">Macaudragon</a></li></p>
+    <p><li><a href="3.Triplediamond.html">Triplediamond</a></li></p>
+    </ol>
+    <b><h4>1. 게임소개</h4></b>
+
+           <p><a href="http://test.ezcasino.io/webgl//"target="blank" title="online casino">▶게임입장◀ </a></p>
+
+    <b><h4>2. 회사주소</h4></b>
+       <p><a href="https://dorojuso.kr/1168010800101150013006373/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C-%EA%B0%95%EB%82%A8%EA%B5%AC-%EC%96%B8%EC%A3%BC%EB%A1%9C-702-%EB%85%BC%ED%98%84%EB%8F%99/" target="blank" title="주소지로 이동">회사 주소</a></p>
+    <b><h4>3. 회사설명</h4></b>
+       <p>이 게임은 주식회사 (주) 오거의 카지노이다</p>
+    <p><img src ="EZcasino 메인.jpg "width=:"100%"></P>
+
+  </body>
+</html>
+
+=====================
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <meta charset="utf-8">
+    <head>
+
+  <title>EZcasino</title>
+
+     <h1><a href="0.Index.EZcasino.html">EZcasino</a></h1>
+    </head>
+    <body>
+
+
+    <ol>
+    <p><li><a href="1.Fortuneprime.html">Fortuneprime</a></li></p>
+    <p><li><a href="2.Macaudragon.html">Macaudragon</a></li></p>
+    <p><li><a href="3.Triplediamond.html">Triplediamond</a></li></p>
+    </ol>
+    <br><h2>Fortuneprime</h2></br>
+    Fortuneprime is the scam do you know kimchi?
+
+    </body>
+</html>
+===================
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <meta charset="utf-8">
+    <head>
+
+  <title>EZcasino</title>
+
+     <h1><a href="0.Index.EZcasino.html">EZcasino</a></h1>
+    </head>
+    <body>
+
+
+    <ol>
+    <p><li><a href="1.Fortuneprime.html">Fortuneprime</a></li></p>
+    <p><li><a href="2.Macaudragon.html">Macaudragon</a></li></p>
+    <p><li><a href="3.Triplediamond.html">Triplediamond</a></li></p>
+    </ol>
+    <br><h2>Macaudragon</h2></br>
+    Macaudragon is the scam do you know kimchi?
+
+    </body>
+</html>
+===================
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <meta charset="utf-8">
+    <head>
+
+  <title>EZcasino</title>
+
+     <h1><a href="0.Index.EZcasino.html">EZcasino</a></h1>
+    </head>
+    <body>
+
+
+    <ol>
+    <p><li><a href="1.Fortuneprime.html">Fortuneprime</a></li></p>
+    <p><li><a href="2.Macaudragon.html">Macaudragon</a></li></p>
+    <p><li><a href="3.Triplediamond.html">Triplediamond</a></li></p>
+    </ol>
+    <br><h2>Triplediamond</h2></br>
+    Triplediamond is the scam do you know kimchi?
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
